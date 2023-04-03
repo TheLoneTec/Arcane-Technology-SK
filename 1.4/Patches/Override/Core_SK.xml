@@ -40,6 +40,20 @@
 				<thingDef>TFJ_Tool_Sickle</thingDef>
 				<researchDefName>None</researchDefName>
 			</li>
+			<!-- Android -->
+			<li>
+				<thingDef>ChJAndroidThermalBandages</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<!-- Jewelery -->
+			<li>
+				<thingDef>Jewelry_PsychicNecklace</thingDef>
+				<researchDefName>Jewelry</researchDefName>
+			</li>
+			<li>
+				<thingDef>Club</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
 		</Overrides>
 	</Operation>
 	
