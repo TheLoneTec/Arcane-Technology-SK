@@ -54,6 +54,31 @@
 				<thingDef>Club</thingDef>
 				<researchDefName>None</researchDefName>
 			</li>
+			<!-- Apparel -->
+			<li>
+				<thingDef>Apparello_Syndicate</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparello_docglovetwo</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparello_Hood</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_PsychicFoilHelmet</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparello_Standissue</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparello_XcomOne</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
 		</Overrides>
 	</Operation>
 	
