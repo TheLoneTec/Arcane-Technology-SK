@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="DArcaneTechnology.AssignResearch">
+	<Assignments>
+		<li>
+			<thingDef>Module_Bayonet</thingDef>
+			<researchDefName>None</researchDefName>
+		</li>
+		<li>
+			<thingDef>Pa_S8498III</thingDef>
+			<researchDefName>None</researchDefName>
+		</li>
+	</Assignments>
+</Operation>
+
+</Patch>
