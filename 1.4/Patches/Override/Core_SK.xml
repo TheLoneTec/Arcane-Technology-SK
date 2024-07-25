@@ -79,6 +79,39 @@
 				<thingDef>Apparello_XcomOne</thingDef>
 				<researchDefName>None</researchDefName>
 			</li>
+			<!-- Apparel Rimatomics -->
+			<li>
+				<thingDef>Apparel_RadiationMask</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppMaskDesert</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppMaskWoodland</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppMaskSnow</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_RadiationSuit</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppSuitDesert</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppSuitWoodland</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppSuitSnow</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
 		</Overrides>
 	</Operation>
 	
