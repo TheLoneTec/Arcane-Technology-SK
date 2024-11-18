@@ -1,0 +1,10 @@
+E:\Rimworld_Assemblies\Arcane Technology\obj\Debug\Arcane Technology.csproj.AssemblyReference.cache
+E:\Rimworld_Assemblies\Arcane Technology\obj\Debug\Arcane Technology.csproj.CoreCompileInputs.cache
+E:\Rimworld_Assemblies\Arcane Technology\bin\Debug\Arcane Technology.dll
+E:\Rimworld_Assemblies\Arcane Technology\bin\Debug\Arcane Technology.pdb
+E:\Rimworld_Assemblies\Arcane Technology\bin\Debug\SimpleSidearms.dll
+E:\Rimworld_Assemblies\Arcane Technology\obj\Debug\Arcane Technology.csproj.CopyComplete
+E:\Rimworld_Assemblies\Arcane Technology\obj\Debug\Arcane Technology.dll
+E:\Rimworld_Assemblies\Arcane Technology\obj\Debug\Arcane Technology.pdb
+E:\Rimworld_Assemblies\Arcane Technology\bin\Debug\CombatExtended.dll
+E:\Rimworld_Assemblies\Arcane Technology\bin\Debug\CombatExtended.ExtendedLoadout.dll

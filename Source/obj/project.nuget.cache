@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gCCQE3R8xWTS4WLFIT51q492YPE4WIlWElJST/bMkB84VZUQ3iNHDmB06VBTwvyD8kLDZtwz17uENiUVaSjiDQ==",
+  "success": true,
+  "projectFilePath": "E:\\Rimworld_Assemblies\\Arcane Technology\\Arcane Technology.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kacey\\.nuget\\packages\\krafs.publicizer\\2.0.1\\krafs.publicizer.2.0.1.nupkg.sha512",
+    "C:\\Users\\kacey\\.nuget\\packages\\krafs.rimworld.ref\\1.5.4243\\krafs.rimworld.ref.1.5.4243.nupkg.sha512",
+    "C:\\Users\\kacey\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
