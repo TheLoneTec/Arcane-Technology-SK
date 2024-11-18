@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+	<Operation Class="DArcaneTechnology.OverrideResearch">
+		<Overrides>
+			<!-- None does what it sounds like - no research project will be associated. Club included just for example. -->
+			<li>
+				<thingDef>CryptosleepBodysuit</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>CryptosleepHat</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Gun_BoltActionRifle</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Gun_Revolver</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>MeleeWeapon_Knife</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>TFJ_Tool_Woodcutting_Handaxe</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>TFJ_Tool_Building_Hammer</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>TFJ_Tool_Mining_Pickaxe</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>TFJ_Tool_Sickle</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<!-- Android -->
+			<li>
+				<thingDef>ChJAndroidThermalBandages</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<!-- Jewelery -->
+			<li>
+				<thingDef>Jewelry_PsychicNecklace</thingDef>
+				<researchDefName>Jewelry</researchDefName>
+			</li>
+			<li>
+				<thingDef>Club</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<!-- Apparel -->
+			<li>
+				<thingDef>Apparello_Syndicate</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparello_docglovetwo</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparello_Hood</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_PsychicFoilHelmet</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparello_Standissue</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparello_XcomOne</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<!-- Apparel Rimatomics -->
+			<li>
+				<thingDef>Apparel_RadiationMask</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppMaskDesert</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppMaskWoodland</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppMaskSnow</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_RadiationSuit</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppSuitDesert</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppSuitWoodland</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+			<li>
+				<thingDef>Apparel_MoppSuitSnow</thingDef>
+				<researchDefName>None</researchDefName>
+			</li>
+		</Overrides>
+	</Operation>
+	
+</Patch>

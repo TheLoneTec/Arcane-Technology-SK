@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="DArcaneTechnology.AssignResearch">
+	<Assignments>
+		<li>
+			<thingDef>VFEE_Apparel_ArmorDeserter</thingDef>
+			<researchDefName>CataphractArmor</researchDefName>
+		</li>
+		<li>
+			<thingDef>VFEE_Apparel_DeserterHelmet</thingDef>
+			<researchDefName>CataphractArmor</researchDefName>
+		</li>
+	</Assignments>
+</Operation>
+
+</Patch>

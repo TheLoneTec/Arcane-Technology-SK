@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="DArcaneTechnology.ExemptResearch">
+	<Exemptions>
+		<li>ComplexClothing</li>
+		<li>ROM_OccupationClothing</li>
+		<li>HighClassClothing</li>
+		<li>RatkinClothing</li>
+		<li>VAE_CasualWear</li>
+		<li>VAE_FormalWear</li>
+		<li>VAE_WorkAttire</li>
+		<li>VAE_SterileAttire</li>
+		<li>VAE_MilitaryClothing</li>
+		<li>ApparelloTribalwearDesign</li>
+		<li>ApparelloResearchDesign</li>
+		<li>ApparelloResearchWork</li>
+		<li>ApparelloResearchSF</li>
+		<li>ApparelloResearchQuilting</li>
+		<li>Jewelry</li>
+		<!-- HSK -->
+		<li>Craft_0</li>
+		<li>Apparel_A1</li>
+		<li>Apparel_A2</li>
+		<li>Apparel_B1</li>
+		<li>Apparel_B3</li>
+		<li>RoyalApparel</li>
+		<li>NobleApparel</li>
+		<li>PlateArmor</li>
+		<li>Armor_B2</li>
+		<li>Fabrication</li>
+		<li>Apparel_C2</li>
+		<li>Armor_C1</li>
+		<li>Apparel_C5</li>
+		<li>FlakArmor</li>
+		<li>Smithing</li>
+		<li>LongBlades</li>
+		<li>Melee_C1</li>
+		<li>Bow_A1</li>
+		<li>RecurveBow</li>
+		<li>Greatbow</li>
+		<li>Bow_B2</li>
+		<li>Metals_C1</li>
+		<!-- Minerals Craft --> 
+		<li>ZF_NeolithicToolsI</li>
+		<li>ZF_NeolithicToolsII</li>
+		<li>ZF_NeolithicToolsIII</li>
+		<li>ZF_RoyalWeapons</li>
+		<!-- Viles Metallurgy -->
+		<li>Steel_B1</li>
+		<!-- Animal Equipment -->
+		<li>AnimalRidingGear</li>
+		<!-- Vile Pre-Industrial -->
+		<li>Armor_IronAge</li>
+		<li>Armor_Improvised</li>
+		<li>Armor_Munition</li>
+		<li>Armor_Rennaisance</li>
+		<!-- Ratkin Clothing -->
+		<li>Ratkin_Apparel_B1</li>
+		<li>Ratkin_Apparel_B2</li>
+		<li>Ratkin_Armor_B1</li>
+		<li>Ratkin_Apparel_C1</li>
+		<!-- LTS Tenants -->
+		<li>LTS_CourierTech</li>
+		<!-- Vanilla Psycasts Expanded -->
+		<li>VPE_CasterGear</li>
+	</Exemptions>
+</Operation>
+
+</Patch>
